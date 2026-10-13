@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Welcome&Goodbye Bot
+# 🤖 Welcome&Goodbye Bot 🤖
 
 **Customizable Welcome & Goodbye System for Discord Communities**
 
@@ -14,7 +14,6 @@ Greet new members automatically and send custom goodbye messages with real-time 
 
 </div>
 
----
 
 ## ✨ Features
 
@@ -23,7 +22,6 @@ Greet new members automatically and send custom goodbye messages with real-time 
 - 🧪 **Live Previews:** Easily test welcome and goodbye messages before making them public.
 - ⚙️ **Simple Channel Configuration:** Set channels dynamically using slash commands.
 
----
 
 ## 🛠️ Commands
 
@@ -33,12 +31,3 @@ Greet new members automatically and send custom goodbye messages with real-time 
 | `/setgoodbye` | Set the channel where goodbye messages will be posted. |
 | `/testwelcome` | Preview the welcome message to make sure it looks perfect. |
 | `/testgoodbye` | Preview the goodbye message before enabling it live. |
-
----
-
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone [https://github.com/bikiogirl/Welcome-Goodbye-Bot.git](https://github.com/bikiogirl/Welcome-Goodbye-Bot.git)
-cd Welcome-Goodbye-Bot
